@@ -1,5 +1,5 @@
 // require('dotenv').config();
-const API_KEY = "q2X77WuKBHvgvlq82pffWPnsjbcSROnn";
+const API_KEY = "api key to giphy";
 
 const inputField = document.querySelector("#queryInput");
 const submitBtn = document.querySelector("#submitBtn");
